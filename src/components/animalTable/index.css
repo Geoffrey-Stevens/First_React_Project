@@ -1,0 +1,16 @@
+table {
+  margin: 25px;
+  padding: 10px;
+  border-collapse: collapse;
+  border: 1px solid gray;
+}
+
+th{
+  padding: 10px;
+  border-bottom: 1px solid gray;
+}
+
+td{
+  padding: 10px;
+  border: 1px solid gray;
+}
